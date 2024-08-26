@@ -5,3 +5,44 @@
     one more css for each page that will contain the selected used 
     on that page only (the ones not reused in other pages).
 */
+
+.navbar {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 5px !important;
+    background-color: #4d76ba;
+}
+
+
+.nav-link {
+    padding: 0 !important;
+}
+
+
+.container-fluid {
+    padding: 0;
+}
+
+
+.btn-custom {
+        background-color: #30353e;
+}
+  
+      
+.home-container {
+    background-image: -webkit-linear-gradient(top,#4d76ba 30%,#30353e 90%);
+    min-height: 100vh; 
+    max-width: 100vw; 
+    color: #fff; 
+}
+
+  
+.offcanvas {
+    width: 250px; 
+    top: 60px;
+}
+
+
+  .dropdown-menu {
+    margin-left: -15px; 
+}
